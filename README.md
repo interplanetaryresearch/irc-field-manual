@@ -19,9 +19,11 @@ We strive to be the leader in affordable near space observation and citizen spac
 * Lunar and Extraterrestrial Mining
 
 ## Dissemination
-- Toolkits
-- Ops Data Repositories
-- Field Guides
+We disseminate information through three primary channels.
+
+1. Toolkits available as free documentation or via a pre-built kit for purchase
+2. Operations Data available for free download or available via subscription via a REST API
+3. Field Guides that help community members understand Near Earth Observation, and expand our humanities ideas around Lunar and Extraterrestrial Agricultuer, Colonization, and Mining.
 
 ## Table of Contents
 
