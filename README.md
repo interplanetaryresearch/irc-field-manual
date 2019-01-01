@@ -18,7 +18,16 @@ We strive to be the leader in affordable near space observation and citizen spac
 * Lunar and Extraterrestrial Colonization
 * Lunar and Extraterrestrial Mining
 
+## Dissemination
+- Toolkits
+- Ops Data Repositories
+- Field Guides
+
 ## Table of Contents
 
 ## Programs
+- [Citizen Science Programs sponsored by NASA](https://science.nasa.gov/citizenscientists)
+- [Hubble Citizen Science Programs](http://hubblesite.org/get_involved/citizen_science/)
+
+### Programs Applied to
 - 2019-01-01 [Applied for NASA Science's Citizen Science program](https://github.com/interplanetaryresearch/irc-field-manual/blob/master/programs/001-NASA-Citizen-Science.md)
