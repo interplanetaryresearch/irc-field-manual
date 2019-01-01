@@ -21,4 +21,4 @@ We strive to be the leader in affordable near space observation and citizen spac
 ## Table of Contents
 
 ## Programs
-- 2019-01-01 Applied for NASA Science's "Citizen Scientists to Measure Local Air Quality Using Low-Cost Sensors" program
+- 2019-01-01 [Applied for NASA Science's Citizen Science program](https://github.com/interplanetaryresearch/irc-field-manual/blob/master/programs/001-NASA-Citizen-Science.md)
